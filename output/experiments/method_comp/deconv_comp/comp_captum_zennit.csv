@@ -1,0 +1,2 @@
+max abs diff,mean abs diff,L2 diff,"allclose(rtol=1e-4,atol=1e-6)"
+0.0,0.0,0.0,True
